@@ -1,3 +1,3 @@
 # sql_exercises
-Exercises from my SQL training
+Exercises from my SQL training /n
 sql-practice_exercises --> https://www.sql-practice.com/
